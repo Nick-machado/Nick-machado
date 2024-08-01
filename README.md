@@ -1,7 +1,7 @@
 ## Hi there, I'm Nick! 👋
 
 # 💫 About Me:
-💻Technology enthusiast<br>🎓Studying software engineering<br>🐍Deepening my knowledge in Python<br>📈Future data scientist and analyst<br>🗽Brazilian and American<br>🔭Seeking projects and opportunities
+💻 Technology enthusiast<br>🎓 Studying software engineering<br>🐍 Deepening my knowledge in Python<br>📈 Future data scientist and analyst<br>🔭 Seeking projects and opportunities<br>🗽 Brazilian and American<br>☕ Coffee enjoyer<br>🌕 Late night-time programmer<br>📫 My email: lafuno123@gmail.com<br>⚡ Funfact: Even though I'm American, I've never been to the United States; I plan to go someday!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nicholas-machado-305979313) 
